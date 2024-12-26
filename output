@@ -1,0 +1,24 @@
+SVM Metrics:
+Accuracy: 0.9
+Precision: 0.9013888888888889
+Recall: 0.9
+F1-score: 0.89923273657289
+
+Random Forest Metrics:
+Accuracy: 0.9
+Precision: 0.9013888888888889
+Recall: 0.9
+F1-score: 0.89923273657289
+SVM Confusion Matrix:
+[[10  0  0]
+ [ 0  7  2]
+ [ 0  1 10]]
+
+Random Forest Confusion Matrix:
+[[10  0  0]
+ [ 0  7  2]
+ [ 0  1 10]]
+
+
+
+​
